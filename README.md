@@ -1,2 +1,2 @@
-# pk-metek.ru
+# nomos-38.ru
 Верстка сайта
